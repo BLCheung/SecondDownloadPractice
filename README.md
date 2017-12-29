@@ -1,2 +1,2 @@
 # SecondDownloadPractice
-A simple download task demo
+使用AsynTask实现基本的下载功能
