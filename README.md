@@ -1,2 +1,2 @@
 # SecondDownloadPractice
-使用AsynTask实现基本的下载功能
+使用OkHttp+AsynTask实现基本的下载功能
